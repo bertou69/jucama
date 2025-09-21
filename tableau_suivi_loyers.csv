@@ -1,0 +1,13 @@
+Mois,Locataire,Logement,Loyer_net,Charges,Total_du,Date_echeance,Date_paiement,Montant_encaisse,Mode_paiement,Statut,Solde,Observations
+Janvier 2024,Martin Dupont,Appartement A,650,60,710,2024-01-05,2024-01-05,710,Virement,Reçu,0,
+Janvier 2024,Julie Bernard,Appartement B,720,70,790,2024-01-05,2024-01-12,400,Virement,Partiel,390,Rappel envoyé le 2024-01-20
+Février 2024,Martin Dupont,Appartement A,650,60,710,2024-02-05,2024-02-04,710,Prélèvement,Reçu,0,
+Février 2024,Julie Bernard,Appartement B,720,70,790,2024-02-05,,,0,,En attente,790,Locataire en déplacement - relance prévue le 2024-02-10
+Mars 2024,Martin Dupont,Appartement A,650,60,710,2024-03-05,2024-03-06,710,Virement,Reçu (retard 1 jour),0,
+Mars 2024,Julie Bernard,Appartement B,720,70,790,2024-03-05,2024-03-15,790,Chèque,Reçu,0,Quittance transmise le 2024-03-16
+Avril 2024,Martin Dupont,Appartement A,650,60,710,2024-04-05,2024-04-04,710,Prélèvement,Reçu,0,
+Avril 2024,Julie Bernard,Appartement B,720,70,790,2024-04-05,2024-04-08,790,Virement,Reçu,0,Solde régularisé après rappel
+Mai 2024,Martin Dupont,Appartement A,650,60,710,2024-05-05,2024-05-05,710,Prélèvement,Reçu,0,
+Mai 2024,Julie Bernard,Appartement B,720,70,790,2024-05-05,2024-05-18,790,Virement,Reçu (retard 13 jours),0,Plan de paiement à surveiller
+Juin 2024,Martin Dupont,Appartement A,650,60,710,2024-06-05,,0,,À venir,710,
+Juin 2024,Julie Bernard,Appartement B,720,70,790,2024-06-05,,0,,À venir,790,
